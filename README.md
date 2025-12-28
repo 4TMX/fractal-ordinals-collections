@@ -71,3 +71,4 @@ Your inscriptions.json file will look like this:
   }
 ]
 ```
+https://github.com/ordinals/ord/blob/master/.github%2Fworkflows%2Fci.yaml
