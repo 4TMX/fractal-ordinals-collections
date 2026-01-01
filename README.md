@@ -1,4 +1,4 @@
-# Ordinals Collections Standards
+5de5f3b0bdf5573bbe839ffb65a041f6beee9c49# Ordinals Collections Standards
 
 ## Meta Data `meta.json`
 
