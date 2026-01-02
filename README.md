@@ -2,7 +2,7 @@
 
 ## Meta Data `meta.json`
 
-```
+```44705a51-33b6-47d6-9de6-8d1163969869
 {
   "description": "",
   "discord_link": "",
