@@ -12,6 +12,8 @@
   "twitter_link": "https://",
   "website_link": "https://"
 }
+
+6a24aa21a9ed503ac954e9eee608681729f68af42bb38077714a7efd7763cfbea11434faab134c4fecc7daa2490047304402203a1794eeaaf8ad65f 81bc4ba0b6bd24637f57880bc83f024276438698787da1002200f7b6cb967f4b6d4caa9245d4fd7a5a9e24b85de414db6d59464ff9557d2d8630100
 ```
 
 ## Inscription Data `inscriptions.json`
